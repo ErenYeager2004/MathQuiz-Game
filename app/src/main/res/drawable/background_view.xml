@@ -1,0 +1,9 @@
+<!-- res/drawable/rounded_corner_purple.xml -->
+
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+<solid android:color="#673AB7"/> <!-- Set your desired purple color -->
+
+    <corners
+        android:bottomLeftRadius="75dp"
+        android:bottomRightRadius="75dp"/>
+</shape>
